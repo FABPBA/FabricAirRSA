@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialsAPI", "MaterialsAPI\MaterialsAPI.csproj", "{26A28A74-DE4B-49DC-8304-426B2C39D646}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialsAPI.Tests", "MaterialsAPI.Tests\MaterialsAPI.Tests.csproj", "{478D7945-CD63-4E18-8C7B-E6626BC2982B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26A28A74-DE4B-49DC-8304-426B2C39D646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26A28A74-DE4B-49DC-8304-426B2C39D646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26A28A74-DE4B-49DC-8304-426B2C39D646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26A28A74-DE4B-49DC-8304-426B2C39D646}.Release|Any CPU.Build.0 = Release|Any CPU
+		{478D7945-CD63-4E18-8C7B-E6626BC2982B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{478D7945-CD63-4E18-8C7B-E6626BC2982B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{478D7945-CD63-4E18-8C7B-E6626BC2982B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{478D7945-CD63-4E18-8C7B-E6626BC2982B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {382EC75D-1DDF-4BB7-BC57-9893A5B83E3F}
+	EndGlobalSection
+EndGlobal
